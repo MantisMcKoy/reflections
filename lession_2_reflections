@@ -5,3 +5,6 @@ the staging area allows multiple things to be added in at once
 you can use the diff operators to check that you change exactly what you want to and nothign more or less
 
 I need to add the master tag and which branch im on id
+
+it allows me to see the visibility of commits relative to branches and each other
+
