@@ -1,0 +1,2 @@
+it highlights differences and ignores everthing else
+so when there is a difference there shouldnt be it becomes obvious
