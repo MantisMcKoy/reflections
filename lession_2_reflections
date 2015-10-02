@@ -9,3 +9,6 @@ I need to add the master tag and which branch im on id
 it allows me to see the visibility of commits relative to branches and each other
 
 this allows devs to work independently and creat different things at the same time and then t just combine the code together
+
+pros are that merging is awesome the con is that computers cant figure everything out on their on, if 2 devs are working with sections of code that are related at all there is a chance of 
+creating conflicts which must be manually sorted
