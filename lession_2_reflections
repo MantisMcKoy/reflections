@@ -1,1 +1,5 @@
 its how you start to save changes and make a commit and stuff yo
+
+the staging area allows multiple things to be added in at once
+
+you can use the diff operators to check that you change exactly what you want to and nothign more or less
